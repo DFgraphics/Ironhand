@@ -3,8 +3,8 @@ graphics_humies
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:HUMIES]
-  [FILE:humanoids16.png]
-  [TILE_DIM:16:16]
+  [FILE:humanoids.png]
+  [TILE_DIM:18:18]
   [PAGE_DIM:12:12]
 
 [CREATURE_GRAPHICS:GOBLIN]

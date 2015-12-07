@@ -3,8 +3,8 @@ graphics_bugs
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:BUG]
-  [FILE:bugs16.png]
-  [TILE_DIM:16:16]
+  [FILE:bugs.png]
+  [TILE_DIM:18:18]
   [PAGE_DIM:4:7]
 
 [CREATURE_GRAPHICS:GIANT_MOSQUITO]

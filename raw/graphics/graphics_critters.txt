@@ -3,8 +3,8 @@ graphics_critters
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:CRITTER]
-  [FILE:critters16.png]
-  [TILE_DIM:16:16]
+  [FILE:critters.png]
+  [TILE_DIM:18:18]
   [PAGE_DIM:31:23]
 
 [CREATURE_GRAPHICS:DOG]

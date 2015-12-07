@@ -3,8 +3,8 @@ graphics_procedural
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:PROCEDURAL]
-	[FILE:procedural16.png]
-	[TILE_DIM:16:16]
+	[FILE:procedural.png]
+	[TILE_DIM:18:18]
 	[PAGE_DIM:3:3]
 
 

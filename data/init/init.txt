@@ -27,7 +27,7 @@ If set below 256x256 it specifies the grid size instead, with a minimum of 80x25
 
 [WINDOWEDX:80]
 [WINDOWEDY:25]
-[FONT:text_12x16.png]
+[FONT:ironhand.png]
 
 You may disable window resizing if you wish.
 [RESIZABLE:YES]
@@ -36,7 +36,7 @@ Full screen info.  The 0s below mean that the game will choose a resolution for 
 
 [FULLSCREENX:0]
 [FULLSCREENY:0]
-[FULLFONT:text_12x16.png]
+[FULLFONT:ironhand.png]
 
 If this is set to NO, tiles will be stretched to fit the screen if there is a resolution mismatch.
 If this is set to YES, the tiles will not be stretched, but rather the game view will be centralized, surrounded by black space.  Tiles that are too large will always be compressed rather than running off the screen.
@@ -48,10 +48,10 @@ Graphics info, most of it as above.  Set GRAPHICS to YES to turn it all on.  Thi
 [GRAPHICS:YES]
 [GRAPHICS_WINDOWEDX:0]
 [GRAPHICS_WINDOWEDY:0]
-[GRAPHICS_FONT:ironhand16.png]
+[GRAPHICS_FONT:ironhand.png]
 [GRAPHICS_FULLSCREENX:0]
 [GRAPHICS_FULLSCREENY:0]
-[GRAPHICS_FULLFONT:ironhand16.png]
+[GRAPHICS_FULLFONT:ironhand.png]
 [GRAPHICS_BLACK_SPACE:YES]
 
 These settings can have a significant impact on frame rate, especially for people that have slow frame rates on the title screen.  Available modes are 2D, 2DSW, 2DASYNC, STANDARD, PARTIAL:<number>, ACCUM_BUFFER, FRAME_BUFFER and VBO. The number after PARTIAL refers to how many frames it will redo a printed tile before skipping it, so you might try increasing it a bit if you have flickering when PARTIAL is set.  Please note that any of these combinations might cause frame rates to drop significantly or cause unpleasant side effects like flickering.

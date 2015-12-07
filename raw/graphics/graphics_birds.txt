@@ -3,8 +3,8 @@ graphics_birds
 [OBJECT:GRAPHICS]
 
 [TILE_PAGE:BIRD]
-  [FILE:birds16.png]
-  [TILE_DIM:16:16]
+  [FILE:birds.png]
+  [TILE_DIM:18:18]
   [PAGE_DIM:8:8]
 
 [CREATURE_GRAPHICS:BIRD_FALCON_PEREGRINE]
