@@ -6,8 +6,7 @@ creature_small_mammals
 	[DESCRIPTION:A small, intelligent vermin with a long naked tail.]
 	[NAME:rat:rats:rat]
 	[CASTE_NAME:rat:rats:rat]
-
-		[CREATURE_TILE:170][COLOR:0:7:1]
+	[CREATURE_TILE:170][COLOR:0:7:1]
 	[PETVALUE:10]
 	[VERMIN_EATER][PENETRATEPOWER:2][FREQUENCY:100][VERMIN_HATEABLE][VERMIN_GROUNDER]
 	[GNAWER:gnawed]

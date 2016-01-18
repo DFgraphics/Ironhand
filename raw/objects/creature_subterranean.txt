@@ -104,7 +104,7 @@ creature_subterranean
 	[DESCRIPTION:A giant amphibian predator found underground.]
 	[NAME:giant cave toad:giant cave toads:giant cave toad]
 	[CASTE_NAME:giant cave toad:giant cave toads:giant cave toad]
-	[CREATURE_TILE:'T'][COLOR:7:0:0]
+	[CREATURE_TILE:'T'][COLOR:2:0:0]
 	[PETVALUE:750]
 	[PET_EXOTIC]
 	[MOUNT_EXOTIC]
