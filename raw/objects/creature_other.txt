@@ -512,7 +512,7 @@ creature_other
 	[DESCRIPTION:An insect many times the size of its peers.  It is known for its deafening buzz.]
 	[NAME:acorn fly:acorn flies:acorn fly]
 	[CASTE_NAME:acorn fly:acorn flies:acorn fly]
-	[CREATURE_TILE:182][COLOR:6:0:1]
+	[CREATURE_TILE:250][COLOR:6:0:1]
 	[NATURAL]
 	[BIOME:ANY_POOL]
 	[VERMIN_ROTTER][VERMIN_GROUNDER][VERMIN_MICRO][FREQUENCY:100]
