@@ -41,7 +41,7 @@ may take up more space than is available on your screen but can be fixed by resi
 the game window, which will cause the pixels to be drawn at a scaled-down size to-fit.
 
 
-## <a href="installation"></a> Installation
+## <a name="installation"></a> Installation
 
  * Copy the contents of the `/data/art/` folder into Dwarf Fortress' `/data/art/` folder.
  * Copy the contents of the `/data/init/` folder into Dwarf Fortress' `/data/init/` folder.
@@ -57,7 +57,7 @@ the game window, which will cause the pixels to be drawn at a scaled-down size t
  likely to corrupt your save.
 
 
-### <a href="dfhack_with_twbt"></a> DFHack with TWBT
+### <a name="dfhack_with_twbt"></a> DFHack with TWBT
 
 The Text Will Be Text (TWBT) plugin for DFHack allows many improvements to graphics.
 This pack includes optional components to take advantage of TWBT features.
@@ -109,12 +109,12 @@ To get more readable, space-efficient text,
  * Copy the contents of the `/raw/twbt\_objects/` folder into the `/raw/objects/` folder. (This last step is optional, but restores the full versions of the civilized languages.)
 
 
-## <a href="screenshots"></a> Screenshots
+## <a name="screenshots"></a> Screenshots
 
 [![roadmap](./_imgs/readme_img.png)](https://sun9-22.userapi.com/c857436/v857436359/1bb1ac/kwgy98IimfY.jpg)
 
 
-## <a href="credits"></a> Credits
+## <a name="credits"></a> Credits
 
 - Ironhand
 - Wormslayer
@@ -128,7 +128,7 @@ To get more readable, space-efficient text,
 - everyone else
 
 
-## <a href="patreon_donations"></a> Patreon/Donations
+## <a name="patreon_donations"></a> Patreon/Donations
 
 If you really like Dwarf Fortress and/or this tileset and want to help indy developers, 
 consider making a donation to the developers of Dwarf Fortress at bay12games: 
